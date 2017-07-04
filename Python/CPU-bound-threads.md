@@ -1,4 +1,4 @@
-**Multithreading is useless in CPU bound functions.**
+**Multithreading is useless in CPU bound functions, in Python.**
 
 Python does not execute threads on different processors.
 Threads will not make your program faster if they already use 100% of the CPU time.
