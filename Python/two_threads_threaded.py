@@ -1,4 +1,5 @@
-# Total Execution Time : 14.04 seconds
+# Total Execution Time : 14.02 seconds
+# Almost same execution time as that of 'two_threads_sequential.py'
 #System Used-
 #OS: Windows 10; 64-bit Operating System
 #Processor: 2.53 GHz Intel Core i3
