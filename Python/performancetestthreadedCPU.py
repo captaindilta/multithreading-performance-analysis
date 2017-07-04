@@ -1,7 +1,5 @@
-```Python
-
-// Both of the threads created below are completely CPU bound threads.
-// Total Execution Time: 45.56 seconds (almost 2.5 times slower than its sequential counterpart)
+#Both of the threads created below are completely CPU bound threads.
+#Total Execution Time: 45.56 seconds (almost 2.5 times slower than its sequential counterpart)
 
 
 import threading
@@ -28,13 +26,9 @@ end_time = time.time();
 	
 print("\n\n--- Total Execution Time: %s seconds ---" % (end_time - start_time));
 
-/*
-System Used-
-
-OS: Windows 10; 64-bit Operating System
-Processor: 2.53 GHz Intel Core i3
-RAM: 2GB
-Cores: 2
-Logical Processors: 4
-*/
-```
+#System Used-
+#OS: Windows 10; 64-bit Operating System
+#Processor: 2.53 GHz Intel Core i3
+#RAM: 2GB
+#Cores: 2
+#Logical Processors: 4
