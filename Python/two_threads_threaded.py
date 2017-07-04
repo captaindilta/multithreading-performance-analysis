@@ -1,3 +1,11 @@
+# Total Execution Time : 14.04 seconds
+#System Used-
+#OS: Windows 10; 64-bit Operating System
+#Processor: 2.53 GHz Intel Core i3
+#RAM: 2GB
+#Cores: 2
+#Logical Processors: 4
+
 import random
 import threading
 import time
