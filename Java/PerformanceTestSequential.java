@@ -38,4 +38,4 @@ public class PerformanceTestSequential
 // Processor: 2.53 GHz Intel Core i3
 // RAM: 2GB
 // Cores: 2
-#Logical Processors: 4
+// Logical Processors: 4
